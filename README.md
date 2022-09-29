@@ -1,1 +1,1 @@
-# w3c-templates
+# W3C-TEMPLATES
